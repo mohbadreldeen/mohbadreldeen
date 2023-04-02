@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohbadreldeen
-- 👀 I’m interested in Full-Stack Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me mohamed.badreldeen@gmail,com
+- 📫 How to reach me mohamed.badreldeen@gmail.com
 
 <!---
 mohbadreldeen/mohbadreldeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
