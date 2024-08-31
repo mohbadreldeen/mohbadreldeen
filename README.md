@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohbadreldeen
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me mohamed.badreldeen@gmail.com
 
 <!---
